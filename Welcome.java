@@ -1,5 +1,5 @@
 public class Welcome {
   public static void main(String[] args) {
-    System.out.println("Hello from GH actions");
+    System.out.println("Hello from GH actions")
   }
 }
